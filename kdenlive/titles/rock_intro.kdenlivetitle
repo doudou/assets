@@ -1,0 +1,23 @@
+<kdenlivetitle width="1520" duration="300" height="1008" out="300" LC_NUMERIC="en_US.UTF-8">
+ <item z-index="1" type="QGraphicsTextItem">
+  <position x="818.3529411850584" y="848.9590017911194">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content font-color="72,85,204,255" font-pixel-size="60" font-italic="0" font-underline="0" font-weight="50" font="Arial">http://rock-robotics.org</content>
+ </item>
+ <item z-index="1" type="QGraphicsTextItem">
+  <position x="100" y="504">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content font-color="72,85,204,255" font-pixel-size="80" font-italic="0" font-underline="0" font-weight="50" font="Arial">the Robot Construction Kit</content>
+ </item>
+ <item z-index="0" type="QGraphicsTextItem">
+  <position x="180" y="381">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content font-color="72,85,204,255" font-pixel-size="120" font-italic="0" font-underline="0" font-weight="50" font="Arial">Rock</content>
+ </item>
+ <startviewport rect="0,0,1520,1008"/>
+ <endviewport rect="0,0,1520,1008"/>
+ <background color="255,255,255,100"/>
+</kdenlivetitle>
